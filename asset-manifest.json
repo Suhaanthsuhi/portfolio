@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.9b3c3c27.css",
+    "main.css": "/portfolio/static/css/main.ff7b248b.css",
     "main.js": "/portfolio/static/js/main.b555e7d1.js",
     "static/js/787.128fc6e9.chunk.js": "/portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/Profile_pic.jpg": "/portfolio/static/media/Profile_pic.4313a5910670ed4720d3.jpg",
@@ -8,12 +8,12 @@
     "static/media/codechef-png": "/portfolio/static/media/codechef-1324440139527402917.4801a72c8f3104362d0c.png",
     "static/media/160_Hackerrank_logo_logos-512.webp": "/portfolio/static/media/160_Hackerrank_logo_logos-512.8978c55d5bbe49850514.webp",
     "index.html": "/portfolio/index.html",
-    "main.9b3c3c27.css.map": "/portfolio/static/css/main.9b3c3c27.css.map",
+    "main.ff7b248b.css.map": "/portfolio/static/css/main.ff7b248b.css.map",
     "main.b555e7d1.js.map": "/portfolio/static/js/main.b555e7d1.js.map",
     "787.128fc6e9.chunk.js.map": "/portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b3c3c27.css",
+    "static/css/main.ff7b248b.css",
     "static/js/main.b555e7d1.js"
   ]
 }
